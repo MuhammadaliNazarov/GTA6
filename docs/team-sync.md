@@ -1,6 +1,6 @@
 # Team sync — every five minutes
 
-Use the GitHub issue **[SYNC] One-hour demo live log** as the shared team chat. Pin it. Ali, Rioja, Yüin, and Olenem post at minutes 05, 10, 15, 20, 25, 30, 35, 40, 45, 50, and 55.
+Ali, Rioja, Yüin, and Olenem share one [live team log on GitHub](https://github.com/MuhammadaliNazarov/GTA6/issues/1). Post a comment every five minutes from kickoff through minute 55.
 
 ## Required comment
 

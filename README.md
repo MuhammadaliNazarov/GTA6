@@ -13,8 +13,9 @@ browser demo in under one hour.
 - A summon has a clear gameplay effect; players can damage, respawn, and see
   a winner.
 
-Full task ownership, acceptance checks, and the five-minute sync protocol live
-in [docs/demo-task-board.md](docs/demo-task-board.md).
+Find your assignment on the [one-hour task board](docs/demo-task-board.md).
+Every five minutes, post your progress in [the live team log, issue #1](https://github.com/MuhammadaliNazarov/GTA6/issues/1).
+Use the [check-in format](docs/team-sync.md).
 
 ## Asset rule
 
